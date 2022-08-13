@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Research Article &#8211; Tech Smasher</title>
+	<atom:link href="http://https://wajeehafarooqi.github.io/techsmash.github.io/category/research-article/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://wajeehafarooqi.github.io/techsmash.github.io</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 17 Nov 2021 11:23:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>What is Research Article</title>
+		<link>http://https://wajeehafarooqi.github.io/techsmash.github.io/what-is-research-article/</link>
+					<comments>http://https://wajeehafarooqi.github.io/techsmash.github.io/what-is-research-article/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 11:23:33 +0000</pubDate>
+				<category><![CDATA[Research Article]]></category>
+		<guid isPermaLink="false">http://https://wajeehafarooqi.github.io/techsmash.github.io/?p=737</guid>
+
+					<description><![CDATA[A research article is a primary source&#8230;that is, it reports the methods and results of an original study performed by the authors. &#8230; A brief introduction will often include a review of the existing literature on the topic studied, and explain the rationale of the author&#8217;s study.]]></description>
+										<content:encoded><![CDATA[
+<p>A research article is <strong>a primary source</strong>&#8230;that is, it reports the methods and results of an original study performed by the authors. &#8230; A brief introduction will often include a review of the existing literature on the topic studied, and explain the rationale of the author&#8217;s study.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://wajeehafarooqi.github.io/techsmash.github.io/what-is-research-article/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Research Article</title>
+		<link>http://https://wajeehafarooqi.github.io/techsmash.github.io/research-article/</link>
+					<comments>http://https://wajeehafarooqi.github.io/techsmash.github.io/research-article/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 11:20:17 +0000</pubDate>
+				<category><![CDATA[Research Article]]></category>
+		<guid isPermaLink="false">http://https://wajeehafarooqi.github.io/techsmash.github.io/?p=734</guid>
+
+					<description><![CDATA[A research article is a primary source&#8230;that is, it reports the methods and results of an original study performed by the authors. &#8230; A brief introduction will often include a review of the existing literature on the topic studied, and explain the rationale of the author&#8217;s study.]]></description>
+										<content:encoded><![CDATA[
+<p>A research article is <strong>a primary source</strong>&#8230;that is, it reports the methods and results of an original study performed by the authors. &#8230; A brief introduction will often include a review of the existing literature on the topic studied, and explain the rationale of the author&#8217;s study.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://wajeehafarooqi.github.io/techsmash.github.io/research-article/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

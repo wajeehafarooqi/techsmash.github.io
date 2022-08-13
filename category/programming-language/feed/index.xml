@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programming Language &#8211; Tech Smasher</title>
+	<atom:link href="http://https://wajeehafarooqi.github.io/techsmash.github.io/category/programming-language/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://wajeehafarooqi.github.io/techsmash.github.io</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 17 Nov 2021 11:24:45 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Python Tutorial</title>
+		<link>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/</link>
+					<comments>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Nov 2021 08:59:47 +0000</pubDate>
+				<category><![CDATA[Programming Language]]></category>
+		<guid isPermaLink="false">http://https://wajeehafarooqi.github.io/techsmash.github.io/?p=1</guid>
+
+					<description><![CDATA[Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more. The real python tutorial covers almost most of the python programming tricks, techniques, and latest improvements. At Real Python, you can learn all things Python from the ground up. If you want to get short &#38; &#8230;<p class="read-more"> <a class="" href="http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/"> <span class="screen-reader-text">Python Tutorial</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more. The real python tutorial covers almost most of the python programming tricks, techniques, and latest improvements. At Real Python, you can learn all things Python from the ground up. If you want to get short &amp; sweet Python Trick delivered to your inbox every couple of days, you can subscribe to their newsletter.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
