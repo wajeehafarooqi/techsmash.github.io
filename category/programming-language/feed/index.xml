@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Programming Language &#8211; Tech Smasher</title>
-	<atom:link href="http://https://wajeehafarooqi.github.io/techsmash.github.io/category/programming-language/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://wajeehafarooqi.github.io/techsmash.github.io</link>
+	<atom:link href="http://wajeehafarooqi.github.io/techsmash.github.io/category/programming-language/feed/" rel="self" type="application/rss+xml" />
+	<link>http://wajeehafarooqi.github.io/techsmash.github.io</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 17 Nov 2021 11:24:45 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Python Tutorial</title>
-		<link>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/</link>
-					<comments>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/#comments</comments>
+		<link>http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/</link>
+					<comments>http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 08 Nov 2021 08:59:47 +0000</pubDate>
 				<category><![CDATA[Programming Language]]></category>
-		<guid isPermaLink="false">http://https://wajeehafarooqi.github.io/techsmash.github.io/?p=1</guid>
+		<guid isPermaLink="false">http://wajeehafarooqi.github.io/techsmash.github.io/?p=1</guid>
 
-					<description><![CDATA[Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more. The real python tutorial covers almost most of the python programming tricks, techniques, and latest improvements. At Real Python, you can learn all things Python from the ground up. If you want to get short &#38; &#8230;<p class="read-more"> <a class="" href="http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/"> <span class="screen-reader-text">Python Tutorial</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more. The real python tutorial covers almost most of the python programming tricks, techniques, and latest improvements. At Real Python, you can learn all things Python from the ground up. If you want to get short &#38; &#8230;<p class="read-more"> <a class="" href="http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/"> <span class="screen-reader-text">Python Tutorial</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more. The real python tutorial covers almost most of the python programming tricks, techniques, and latest improvements. At Real Python, you can learn all things Python from the ground up. If you want to get short &amp; sweet Python Trick delivered to your inbox every couple of days, you can subscribe to their newsletter.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Python Tutorial	</title>
-	<atom:link href="http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/</link>
+	<atom:link href="http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 17 Nov 2021 11:24:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://https://wajeehafarooqi.github.io/techsmash.github.io/hello-world/#comment-1</link>
+		<link>http://wajeehafarooqi.github.io/techsmash.github.io/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 08 Nov 2021 08:59:47 +0000</pubDate>
-		<guid isPermaLink="false">http://https://wajeehafarooqi.github.io/techsmash.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://wajeehafarooqi.github.io/techsmash.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
