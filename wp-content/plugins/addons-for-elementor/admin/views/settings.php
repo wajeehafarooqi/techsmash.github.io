@@ -21,6 +21,7 @@ $deactivate_element_posts_multislider = lae_get_option( 'lae_deactivate_element_
 $deactivate_element_posts_gridbox_slider = lae_get_option( 'lae_deactivate_element_posts_gridbox_slider', false );
 $deactivate_element_pricing_table = lae_get_option( 'lae_deactivate_element_pricing_table', false );
 $deactivate_element_services = lae_get_option( 'lae_deactivate_element_services', false );
+$deactivate_element_message_box = lae_get_option( 'lae_deactivate_element_message_box', false );
 $deactivate_element_stats_bar = lae_get_option( 'lae_deactivate_element_stats_bar', false );
 $deactivate_element_team = lae_get_option( 'lae_deactivate_element_team', false );
 $deactivate_element_testimonials = lae_get_option( 'lae_deactivate_element_testimonials', false );
@@ -414,6 +415,26 @@ echo  $deactivate_element_services ;
 echo  checked( !empty($deactivate_element_services), 1, false ) ;
 ?>>
                                     <label for="lae_deactivate_element_services"></label>
+                                </div>
+                            </div>
+
+                            <div class="lae-row lae-type-checkbox lae-field">
+                                <label class="lae-label"><?php 
+echo  __( 'Deactivate Message Box', 'livemesh-el-addons' ) ;
+?></label>
+                                <p class="lae-desc"><?php 
+echo  __( 'Deactivate the message box element.', 'livemesh-el-addons' ) ;
+?></p>
+                                <div class="lae-spacer" style="height: 5px"></div>
+                                <div class="lae-toggle">
+                                    <input type="checkbox" class="lae-checkbox" name="lae_deactivate_element_message_box"
+                                           id="lae_deactivate_element_spacer" data-default=""
+                                           value="<?php 
+echo  $deactivate_element_message_box ;
+?>" <?php 
+echo  checked( !empty($deactivate_element_message_box), 1, false ) ;
+?>>
+                                    <label for="lae_deactivate_element_message_box"></label>
                                 </div>
                             </div>
 

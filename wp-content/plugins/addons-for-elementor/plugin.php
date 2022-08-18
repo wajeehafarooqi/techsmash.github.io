@@ -45,7 +45,7 @@ if ( !class_exists( 'Livemesh_Elementor_Addons' ) ) {
         public function __clone()
         {
             // Cloning instances of the class is forbidden
-            _doing_it_wrong( __FUNCTION__, __( 'Cheatin&#8217; huh?', 'livemesh-el-addons' ), '6.15' );
+            _doing_it_wrong( __FUNCTION__, __( 'Cheatin&#8217; huh?', 'livemesh-el-addons' ), '6.16' );
         }
         
         /**
@@ -55,7 +55,7 @@ if ( !class_exists( 'Livemesh_Elementor_Addons' ) ) {
         public function __wakeup()
         {
             // Unserializing instances of the class is forbidden
-            _doing_it_wrong( __FUNCTION__, __( 'Cheatin&#8217; huh?', 'livemesh-el-addons' ), '6.15' );
+            _doing_it_wrong( __FUNCTION__, __( 'Cheatin&#8217; huh?', 'livemesh-el-addons' ), '6.16' );
         }
         
         private function setup_debug_constants()
@@ -176,6 +176,7 @@ if ( !class_exists( 'Livemesh_Elementor_Addons' ) ) {
                 'posts_gridbox_slider',
                 'pricing_table',
                 'services',
+                'message_box',
                 'stats_bars',
                 'team_members',
                 'testimonials',
@@ -332,6 +333,13 @@ if ( !class_exists( 'Livemesh_Elementor_Addons' ) ) {
                 'lae-services-scripts',
                 LAE_PLUGIN_URL . 'assets/js/widgets/services' . $suffix . '.js',
                 array( 'lae-carousel-helper-scripts', 'elementor-frontend' ),
+                LAE_VERSION,
+                true
+            );
+            wp_register_script(
+                'lae-message-box-scripts',
+                LAE_PLUGIN_URL . 'assets/js/widgets/message-box' . $suffix . '.js',
+                array( 'elementor-frontend' ),
                 LAE_VERSION,
                 true
             );
@@ -518,6 +526,12 @@ if ( !class_exists( 'Livemesh_Elementor_Addons' ) ) {
                 LAE_VERSION
             );
             wp_register_style(
+                'lae-message-box-styles',
+                LAE_PLUGIN_URL . 'assets/css/widgets/message-box.css',
+                array( 'lae-frontend-styles' ),
+                LAE_VERSION
+            );
+            wp_register_style(
                 'lae-stats-bars-styles',
                 LAE_PLUGIN_URL . 'assets/css/widgets/stats-bars.css',
                 array( 'lae-frontend-styles' ),
@@ -611,6 +625,13 @@ if ( !class_exists( 'Livemesh_Elementor_Addons' ) ) {
             if ( !$deactivate_element_services ) {
                 require_once LAE_ADDONS_DIR . 'services.php';
                 $widgets_manager->register_widget_type( new \LivemeshAddons\Widgets\LAE_Services_Widget() );
+            }
+            
+            $deactivate_element_message_box = lae_get_option( 'lae_deactivate_element_message_box', false );
+            
+            if ( !$deactivate_element_message_box ) {
+                require_once LAE_ADDONS_DIR . 'message-box.php';
+                $widgets_manager->register_widget_type( new \LivemeshAddons\Widgets\LAE_Message_Box_Widget() );
             }
             
             $deactivate_element_heading = lae_get_option( 'lae_deactivate_element_heading', false );

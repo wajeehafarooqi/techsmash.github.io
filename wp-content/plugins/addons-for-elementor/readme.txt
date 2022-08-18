@@ -7,7 +7,7 @@ Tags: elementor, elementor addons, elementor extensions, elementor widgets, page
 Requires at least: 5.0
 Tested up to: 5.8
 Requires PHP: 5.6
-Stable Tag: 6.15
+Stable Tag: 6.16
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -258,6 +258,9 @@ Email us at support[at]livemeshthemes.com and we will be happy to assist you.
 
 
 
+
+= 6.16 =
+* New Widget - The Message Box widget
 
 = 6.15 =
 * Tweak - Increased the number of columns allowed in Posts Carousel.
