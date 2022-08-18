@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Tech Smasher	</title>
-	<atom:link href="https://wajeehafarooqi.github.io/techsmash.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://wajeehafarooqi.github.io/techsmash.github.io</link>
+	Comments on: python language	</title>
+	<atom:link href="https://wajeehafarooqi.github.io/techsmash.github.io/pythonlanguage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wajeehafarooqi.github.io/techsmash.github.io/pythonlanguage/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 18 Aug 2022 08:35:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>
-		Comment on python language by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://wajeehafarooqi.github.io/techsmash.github.io/pythonlanguage/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
